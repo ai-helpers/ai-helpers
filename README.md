@@ -30,14 +30,23 @@
 
 - FastAPI Template: https://github.com/ai-helpers/api-cookiecutter-template
   - Examples: https://github.com/ai-helpers/example-api-template
-- gRPC Template: https://github.com/ai-helpers/grpc-api-cookiecutter-template
+- gRPC Template: https://github.com/ai-helpers/
 
 
 ## Utils
 
-- PySpark Utils: https://github.com/ai-helpers/pyspark-utils
-- PyTorch Utils: https://github.com/ai-helpers/pytorch-utils
-- JAX Utils: https://github.com/ai-helpers/jax-utils
+- **PySpark Utils:**
+  - Code: https://github.com/ai-helpers/pyspark-utils
+  - PyPi: https://pypi.org/project/ai-helpers-pyspark-utils/
+  - Documentation: https://ai-helpers.github.io/pyspark-utils/
+- **PyTorch Utils:**
+  - Code: https://github.com/ai-helpers/pytorch-utils
+  - PyPi: https://pypi.org/project/ai-helpers-pytorch-utils/
+  - Documentation: https://ai-helpers.github.io/pytorch-utils/
+- **JAX Utils:**
+  - Code: https://github.com/ai-helpers/jax-utils
+  - Pypi: https://pypi.org/project/ai-helpers-jax-utils/
+  - Documentation: https://ai-helpers.github.io/jax-utils/
 
 ## AI Maturity Matrix
 
